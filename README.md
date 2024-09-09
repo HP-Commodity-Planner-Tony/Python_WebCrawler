@@ -1,0 +1,1 @@
+In this python script, I used selenium web crawler to download reports from external website with given username and password and perform further analysis. This script is then set to run at certain time with Windows task scheduler. I wrote five functions to retrieve different reports and perform corresponding analysis for different business objectives.
